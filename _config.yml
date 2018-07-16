@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Simón Roca-Sotelo"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "PhD Student in UC3M. Natural Language Processing (Topic Models and Word Embeddings)."
+  location         : "Madrid"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.es/citations?user=rfSDQy8AAAAJ&hl=es&oi=ao"
   email            :
   uri              :
   bitbucket        :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "simon-roca"
   google_plus      :
   keybase          :
   instagram        :
